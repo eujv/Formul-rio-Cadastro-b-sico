@@ -1,0 +1,27 @@
+div{
+   font-style: normal;
+   text-align: center;
+   background-color: rgb(241, 236, 228);
+   
+   
+}
+image{ 
+   align-items: initial;
+   text-align: left;
+border-radius: 10%;
+
+}
+
+input{
+     background-color: rgb(255, 255, 255);
+     font-size: medium;
+     border-radius: 5%;
+     border-top: 5%;
+     border-style: outset;
+
+}
+body{
+    background-color: antiquewhite;
+    
+
+}
